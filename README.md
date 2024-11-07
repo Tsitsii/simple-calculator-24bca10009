@@ -8,6 +8,9 @@ A simple calculator using switch case.
 
 1.To give a better user experience.
 2.Understanding the usage switch case in C Language.
+
+## Procedure code
+
 #include <stdio.h>
 int main() {
 char op;
@@ -34,3 +37,7 @@ printf("Error! operator is not correct");
 }
 return 0;
 }
+
+## Conclusion 
+
+Overall, this simple calculator is an excellent demonstration of basic control structures, input/output handling, and error management in C.
